@@ -1,7 +1,8 @@
 # Face Database
-===============
+======
 
-This is set of frontal face images collected over the internet.
+Set of frontal face images collected over the internet.
+
 Positive images have size 24x24 pixels.
 Size of negative images is varying.
 
